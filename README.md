@@ -12,9 +12,20 @@ Original companion code is MIT licensed. Required third-party notices and assets
 
 Use JDK27 and the pinned Gradle wrappers. Set `ANDROID_HOME` to the SDK specified by each project. Individual READMEs describe build/service entry points. For root JVM labs, run `./gradlew test` inside the bundle’s `code/` directory.
 
+## Common Goods
+
+The integrated shopping application.
+
+| Application | Code repository | First-edition version |
+| --- | --- | --- |
+| Common Goods | [commerce-app](https://github.com/TheStaffAndroidEngineer/commerce-app) | [`9de51642d4`](https://github.com/TheStaffAndroidEngineer/commerce-app/tree/first-edition-2026.10) |
+
+## Chapter code
+
+Independently runnable chapter checkpoints and labs. Chapter 32 is prose-only and has no code repository.
+
 | Chapter | Code repository | First-edition version |
 | --- | --- | --- |
-| Integrated shopping app | [commerce-app](https://github.com/TheStaffAndroidEngineer/commerce-app) | [`9de51642d4`](https://github.com/TheStaffAndroidEngineer/commerce-app/tree/first-edition-2026.10) |
 | 0–5 JVM labs | [kotlin-labs](https://github.com/TheStaffAndroidEngineer/kotlin-labs-code) | [`a914681690`](https://github.com/TheStaffAndroidEngineer/kotlin-labs-code/tree/first-edition-2026.10) |
 | 5 | [platform-runtime](https://github.com/TheStaffAndroidEngineer/platform-runtime) | [`8824664c7e`](https://github.com/TheStaffAndroidEngineer/platform-runtime/tree/first-edition-2026.10) |
 | 6 | [compose-migration](https://github.com/TheStaffAndroidEngineer/compose-migration) | [`958f26a2e6`](https://github.com/TheStaffAndroidEngineer/compose-migration/tree/first-edition-2026.10) |
@@ -41,6 +52,15 @@ Use JDK27 and the pinned Gradle wrappers. Set `ANDROID_HOME` to the SDK specifie
 | 27 | [design-budgets](https://github.com/TheStaffAndroidEngineer/design-budgets) | [`c789422fbb`](https://github.com/TheStaffAndroidEngineer/design-budgets/tree/first-edition-2026.10) |
 | 28 | [field-reconciliation](https://github.com/TheStaffAndroidEngineer/field-reconciliation) | [`b0f32aafc9`](https://github.com/TheStaffAndroidEngineer/field-reconciliation/tree/first-edition-2026.10) |
 | 29 | [migration-adoption](https://github.com/TheStaffAndroidEngineer/migration-adoption) | [`d26eca8ca5`](https://github.com/TheStaffAndroidEngineer/migration-adoption/tree/first-edition-2026.10) |
+| 30 | [coding-constraints](https://github.com/TheStaffAndroidEngineer/coding-constraints) | [`640226b359`](https://github.com/TheStaffAndroidEngineer/coding-constraints/tree/first-edition-2026.10) |
+| 31 | [interview-conversations](https://github.com/TheStaffAndroidEngineer/interview-conversations) | [`f57141f767`](https://github.com/TheStaffAndroidEngineer/interview-conversations/tree/first-edition-2026.10) |
+
+## Mobile system design casebook apps
+
+The twelve casebook apps cover Chapters 33–44. In the book’s reading order, the casebook follows Chapter 29 and precedes the interview chapters (30–32).
+
+| Chapter | Code repository | First-edition version |
+| --- | --- | --- |
 | 33 | [reservation-payments](https://github.com/TheStaffAndroidEngineer/reservation-payments-code) | [`2cdaf42c8a`](https://github.com/TheStaffAndroidEngineer/reservation-payments-code/tree/first-edition-2026.10) |
 | 34 | [live-location](https://github.com/TheStaffAndroidEngineer/live-location-code) | [`c3066e8e9a`](https://github.com/TheStaffAndroidEngineer/live-location-code/tree/first-edition-2026.10) |
 | 35 | [messaging](https://github.com/TheStaffAndroidEngineer/messaging-code) | [`6b1013ce1b`](https://github.com/TheStaffAndroidEngineer/messaging-code/tree/first-edition-2026.10) |
@@ -53,7 +73,5 @@ Use JDK27 and the pinned Gradle wrappers. Set `ANDROID_HOME` to the SDK specifie
 | 42 | [connected-device](https://github.com/TheStaffAndroidEngineer/connected-device-code) | [`c309d2d463`](https://github.com/TheStaffAndroidEngineer/connected-device-code/tree/first-edition-2026.10) |
 | 43 | [camera-pipeline](https://github.com/TheStaffAndroidEngineer/camera-pipeline-code) | [`01e84c4165`](https://github.com/TheStaffAndroidEngineer/camera-pipeline-code/tree/first-edition-2026.10) |
 | 44 | [ai-assistant](https://github.com/TheStaffAndroidEngineer/ai-assistant-code) | [`2cbba07a62`](https://github.com/TheStaffAndroidEngineer/ai-assistant-code/tree/first-edition-2026.10) |
-| 30 | [coding-constraints](https://github.com/TheStaffAndroidEngineer/coding-constraints) | [`640226b359`](https://github.com/TheStaffAndroidEngineer/coding-constraints/tree/first-edition-2026.10) |
-| 31 | [interview-conversations](https://github.com/TheStaffAndroidEngineer/interview-conversations) | [`f57141f767`](https://github.com/TheStaffAndroidEngineer/interview-conversations/tree/first-edition-2026.10) |
 
 [Machine-readable repository map](catalog.json). Report reproducibility problems or errata through this repository’s Issues; identify the chapter and edition without posting paid chapter text.
