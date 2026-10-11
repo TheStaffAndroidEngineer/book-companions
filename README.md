@@ -2,7 +2,11 @@
 
 First-edition source code for *The Staff Android Engineer: Designing, Diagnosing, and Evolving Android Systems* by Rajesh Pattanaik.
 
-Use the `first-edition-2026.10` tag. The [complete source ZIP](https://github.com/TheStaffAndroidEngineer/book-companions/releases/download/first-edition-2026.10/the-staff-android-engineer-first-edition-2026.10-source.zip) preserves the `code/projects/` layout required by shared investigation tools. Extract it alongside the paid companion guide.
+The projects below retain their frozen `first-edition-2026.10` tags. Download the [compact source ZIP (packaging revision 2)](https://github.com/TheStaffAndroidEngineer/book-companions/releases/download/first-edition-2026.10-r2/the-staff-android-engineer-first-edition-2026.10-r2-source.zip), which preserves the `code/projects/` layout required by shared investigation tools. Extract it alongside the paid companion guide.
+
+Before opening or building an Android project from this compact download, run `python3 code/setup.py --project commerce-app` from the extracted package folder, replacing `commerce-app` with its project name. Use `--list` to list projects or `--all` to prepare them all. Python 3.9 or newer is required; use `python` if that is your Python 3 command. Setup restores exact original images and fonts offline. The download stores them once; preparing projects increases disk use. Individually cloned repositories already include their assets and need no preparation step.
+
+Revision 2 removes author-only scripts and fetches the pinned Chapter 24 bundletool on demand with SHA-256 verification. Application source, image quality, fonts and chapter checkpoints are unchanged. `code/PACKAGE.json` documents distribution changes relative to the original source archive.
 
 Original companion code is MIT licensed. Required third-party notices and assets retain their own terms. Book chapters, exercises, written solutions and detailed reader guidance are supplied with the purchased book.
 
