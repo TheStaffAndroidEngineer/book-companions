@@ -1,0 +1,252 @@
+{
+  "scope": "Code companions only. Chapter 32 is a prose-only workshop supplied in the paid book.",
+  "visibility": "private",
+  "repositories": [
+    {
+      "chapter": "Integrated shopping app",
+      "repository": "commerce-app",
+      "url": "https://github.com/TheStaffAndroidEngineer/commerce-app",
+      "source_commit": "7cd160d4f85176f537084df57d7ab0ec7bc99192"
+    },
+    {
+      "chapter": "0\u20135 JVM labs",
+      "repository": "kotlin-labs",
+      "url": "https://github.com/TheStaffAndroidEngineer/kotlin-labs",
+      "source_commit": "61b40dc797b4fcef0d87b6db7d92e0fa80c74061"
+    },
+    {
+      "chapter": "5",
+      "repository": "platform-runtime",
+      "url": "https://github.com/TheStaffAndroidEngineer/platform-runtime",
+      "source_commit": "7fc50cd700d20d12a7287d8acaf0aa63ef034aab"
+    },
+    {
+      "chapter": "6",
+      "repository": "compose-migration",
+      "url": "https://github.com/TheStaffAndroidEngineer/compose-migration",
+      "source_commit": "09d2dbc481b3a0783f6066e1f1a0e5ab7952061b"
+    },
+    {
+      "chapter": "7",
+      "repository": "state-lifetimes",
+      "url": "https://github.com/TheStaffAndroidEngineer/state-lifetimes",
+      "source_commit": "79bf9bfb380b7eb555f924757e9ff8b88795d8b0"
+    },
+    {
+      "chapter": "8",
+      "repository": "adaptive-cart",
+      "url": "https://github.com/TheStaffAndroidEngineer/adaptive-cart",
+      "source_commit": "b353aed9dd13fe7ac4d2d730ac211c2933520f53"
+    },
+    {
+      "chapter": "9",
+      "repository": "navigation-migration",
+      "url": "https://github.com/TheStaffAndroidEngineer/navigation-migration",
+      "source_commit": "11eea3ccb5169cafcf729a0a81d3b2f1084eb17d"
+    },
+    {
+      "chapter": "10",
+      "repository": "ui-verification",
+      "url": "https://github.com/TheStaffAndroidEngineer/ui-verification",
+      "source_commit": "337977d494a9848f259870e5a122a0cbcfa158fb"
+    },
+    {
+      "chapter": "11",
+      "repository": "catalog-network",
+      "url": "https://github.com/TheStaffAndroidEngineer/catalog-network",
+      "source_commit": "6e79e093211f0f544c578946adc3aa0cf92fee7c"
+    },
+    {
+      "chapter": "12",
+      "repository": "persistence-contracts",
+      "url": "https://github.com/TheStaffAndroidEngineer/persistence-contracts",
+      "source_commit": "c9e5a3eca5a75adc90614c4109929fedd9c024e1"
+    },
+    {
+      "chapter": "13",
+      "repository": "offline-reconciliation",
+      "url": "https://github.com/TheStaffAndroidEngineer/offline-reconciliation",
+      "source_commit": "f04ff9c0f38ad0a7262324ce7f766edba7f5104e"
+    },
+    {
+      "chapter": "14",
+      "repository": "durable-work",
+      "url": "https://github.com/TheStaffAndroidEngineer/durable-work",
+      "source_commit": "aa7adec207ba226b4e4f3fc5a95830447dfdae7d"
+    },
+    {
+      "chapter": "15",
+      "repository": "order-recovery",
+      "url": "https://github.com/TheStaffAndroidEngineer/order-recovery",
+      "source_commit": "150eda9159d18b0a31efcd7d0790de2498de1565"
+    },
+    {
+      "chapter": "16",
+      "repository": "architecture-boundaries",
+      "url": "https://github.com/TheStaffAndroidEngineer/architecture-boundaries",
+      "source_commit": "f455e83758f7c477db0de00508e7419dc62f8d4d"
+    },
+    {
+      "chapter": "17",
+      "repository": "dependency-ownership",
+      "url": "https://github.com/TheStaffAndroidEngineer/dependency-ownership",
+      "source_commit": "562d63f98fa7d283040159144d8a11d285107a4d"
+    },
+    {
+      "chapter": "18",
+      "repository": "build-investigation",
+      "url": "https://github.com/TheStaffAndroidEngineer/build-investigation",
+      "source_commit": "7cca7119fb2cb7b72a3133046d905affa8ac4aaa"
+    },
+    {
+      "chapter": "19",
+      "repository": "delivery-contracts",
+      "url": "https://github.com/TheStaffAndroidEngineer/delivery-contracts",
+      "source_commit": "16fe45054693c789757362423aa1c14d4a59078c"
+    },
+    {
+      "chapter": "20",
+      "repository": "performance-diagnosis",
+      "url": "https://github.com/TheStaffAndroidEngineer/performance-diagnosis",
+      "source_commit": "d989b9dc0a2349d97246172bf609f81378ae6f0a"
+    },
+    {
+      "chapter": "21",
+      "repository": "rendering-performance",
+      "url": "https://github.com/TheStaffAndroidEngineer/rendering-performance",
+      "source_commit": "d67d6d2948a66de4a257dac894aeda1a2bfc0ff8"
+    },
+    {
+      "chapter": "22",
+      "repository": "memory-lifetimes",
+      "url": "https://github.com/TheStaffAndroidEngineer/memory-lifetimes",
+      "source_commit": "86f479c07c1da73acae4c12daee675a6d94b1d84"
+    },
+    {
+      "chapter": "23",
+      "repository": "startup-readiness",
+      "url": "https://github.com/TheStaffAndroidEngineer/startup-readiness",
+      "source_commit": "a577e7f1ac2d6d668682d2eada36f30600f34107"
+    },
+    {
+      "chapter": "24",
+      "repository": "resource-costs",
+      "url": "https://github.com/TheStaffAndroidEngineer/resource-costs",
+      "source_commit": "55c0170bc891bb289e515242dc18a73c8cfdfd9a"
+    },
+    {
+      "chapter": "25",
+      "repository": "trust-boundaries",
+      "url": "https://github.com/TheStaffAndroidEngineer/trust-boundaries",
+      "source_commit": "52ac8fa4ea2959f11cdd6bb0d92b5b9feb7cb76f"
+    },
+    {
+      "chapter": "26",
+      "repository": "release-recovery",
+      "url": "https://github.com/TheStaffAndroidEngineer/release-recovery",
+      "source_commit": "afa05fe505a0dff1f6e2f8a4596d904dd7f6df88"
+    },
+    {
+      "chapter": "27",
+      "repository": "design-budgets",
+      "url": "https://github.com/TheStaffAndroidEngineer/design-budgets",
+      "source_commit": "225abe50d61a4b948ab70533f1e1be386b966974"
+    },
+    {
+      "chapter": "28",
+      "repository": "field-reconciliation",
+      "url": "https://github.com/TheStaffAndroidEngineer/field-reconciliation",
+      "source_commit": "b4e6124ca61aa4ef0e0d788c05d39e10fc43f684"
+    },
+    {
+      "chapter": "29",
+      "repository": "migration-adoption",
+      "url": "https://github.com/TheStaffAndroidEngineer/migration-adoption",
+      "source_commit": "930c24038fcb556bab37f041d6de940b2e2037f3"
+    },
+    {
+      "chapter": "30",
+      "repository": "coding-constraints",
+      "url": "https://github.com/TheStaffAndroidEngineer/coding-constraints",
+      "source_commit": "46bfc087dab9c8e8ebad1ff63043da5905e4ae01"
+    },
+    {
+      "chapter": "31",
+      "repository": "interview-conversations",
+      "url": "https://github.com/TheStaffAndroidEngineer/interview-conversations",
+      "source_commit": "09f5b042babf8b76bd65b4a8fc0f8b65bcb7268e"
+    },
+    {
+      "chapter": "33",
+      "repository": "reservation-payments",
+      "url": "https://github.com/TheStaffAndroidEngineer/reservation-payments",
+      "source_commit": "4a9e5ef9fb42b29d5d835a2560d2eee5848997cb"
+    },
+    {
+      "chapter": "34",
+      "repository": "live-location",
+      "url": "https://github.com/TheStaffAndroidEngineer/live-location",
+      "source_commit": "3d246177e544c506a1d9e4c9f63ee0ca194c95cc"
+    },
+    {
+      "chapter": "35",
+      "repository": "messaging",
+      "url": "https://github.com/TheStaffAndroidEngineer/messaging",
+      "source_commit": "0a8afe28ad121c8c018e87526d6c038fc05efc84"
+    },
+    {
+      "chapter": "36",
+      "repository": "social-feed",
+      "url": "https://github.com/TheStaffAndroidEngineer/social-feed",
+      "source_commit": "c26cf2c1cb294f72d543177eda23ce2780fc86bb"
+    },
+    {
+      "chapter": "37",
+      "repository": "media-library",
+      "url": "https://github.com/TheStaffAndroidEngineer/media-library",
+      "source_commit": "2bd90f8336d8de08611600b8914488f18bf279ed"
+    },
+    {
+      "chapter": "38",
+      "repository": "realtime-calls",
+      "url": "https://github.com/TheStaffAndroidEngineer/realtime-calls",
+      "source_commit": "d65c760b6ed9459aa55c25eea95b80f5da8cd64c"
+    },
+    {
+      "chapter": "39",
+      "repository": "collaborative-notes",
+      "url": "https://github.com/TheStaffAndroidEngineer/collaborative-notes",
+      "source_commit": "29911030267b4ba69c72f757d9b03d782b20bcbf"
+    },
+    {
+      "chapter": "40",
+      "repository": "resumable-transfer",
+      "url": "https://github.com/TheStaffAndroidEngineer/resumable-transfer",
+      "source_commit": "e2060200f7b08c1cc7c41cec53ef72ff1f8cea69"
+    },
+    {
+      "chapter": "41",
+      "repository": "backend-scale",
+      "url": "https://github.com/TheStaffAndroidEngineer/backend-scale",
+      "source_commit": "5c050e6db114440cb8ab5377c6ca35d397424480"
+    },
+    {
+      "chapter": "42",
+      "repository": "connected-device",
+      "url": "https://github.com/TheStaffAndroidEngineer/connected-device",
+      "source_commit": "aa5430ec9640ac65695a25fd6cd29b1d89681bcf"
+    },
+    {
+      "chapter": "43",
+      "repository": "camera-pipeline",
+      "url": "https://github.com/TheStaffAndroidEngineer/camera-pipeline",
+      "source_commit": "4a3ea48ddaab5fa65a8bc29e8df3157e15c98cd0"
+    },
+    {
+      "chapter": "44",
+      "repository": "ai-assistant",
+      "url": "https://github.com/TheStaffAndroidEngineer/ai-assistant",
+      "source_commit": "2166f33156d20284f4e46a7026029735fb58e5cb"
+    }
+  ]
+}
