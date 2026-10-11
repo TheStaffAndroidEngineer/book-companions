@@ -221,22 +221,6 @@
       "tag": "first-edition-2026.10"
     },
     {
-      "chapter": "30",
-      "repository": "coding-constraints",
-      "public_repository": "coding-constraints",
-      "url": "https://github.com/TheStaffAndroidEngineer/coding-constraints",
-      "release_commit": "640226b359c1ff5cbdb203c480d549734c2502d1",
-      "tag": "first-edition-2026.10"
-    },
-    {
-      "chapter": "31",
-      "repository": "interview-conversations",
-      "public_repository": "interview-conversations",
-      "url": "https://github.com/TheStaffAndroidEngineer/interview-conversations",
-      "release_commit": "f57141f767ff629a0825ed6a00a6b5a35b4c8147",
-      "tag": "first-edition-2026.10"
-    },
-    {
       "chapter": "33",
       "repository": "reservation-payments",
       "public_repository": "reservation-payments-code",
@@ -330,6 +314,22 @@
       "public_repository": "ai-assistant-code",
       "url": "https://github.com/TheStaffAndroidEngineer/ai-assistant-code",
       "release_commit": "2cbba07a6215224f83098e5a6aaae2b9717322f6",
+      "tag": "first-edition-2026.10"
+    },
+    {
+      "chapter": "30",
+      "repository": "coding-constraints",
+      "public_repository": "coding-constraints",
+      "url": "https://github.com/TheStaffAndroidEngineer/coding-constraints",
+      "release_commit": "640226b359c1ff5cbdb203c480d549734c2502d1",
+      "tag": "first-edition-2026.10"
+    },
+    {
+      "chapter": "31",
+      "repository": "interview-conversations",
+      "public_repository": "interview-conversations",
+      "url": "https://github.com/TheStaffAndroidEngineer/interview-conversations",
+      "release_commit": "f57141f767ff629a0825ed6a00a6b5a35b4c8147",
       "tag": "first-edition-2026.10"
     }
   ]
