@@ -2,6 +2,8 @@
 
 First-edition source code for *The Staff Android Engineer: Designing, Diagnosing, and Evolving Android Systems* by Rajesh Pattanaik.
 
+**The book:** [thestaffandroidengineer.com](https://thestaffandroidengineer.com/) — three complete sample chapters are free to read there (Chapter 3 on asynchronous ownership, Chapter 20 on trace-based performance diagnosis, Chapter 29 on technical direction). The purchase includes the 1,914-page PDF, the HTML reader guide with lab instructions, and the matching source bundle. Each repository below is runnable on its own with the setup notes in its README.
+
 The projects below retain their frozen `first-edition-2026.10` tags. Download the [compact source ZIP (packaging revision 2)](https://github.com/TheStaffAndroidEngineer/book-companions/releases/download/first-edition-2026.10-r2/the-staff-android-engineer-first-edition-2026.10-r2-source.zip), which preserves the `code/projects/` layout required by shared investigation tools. Extract it alongside the paid companion guide.
 
 Before opening or building an Android project from this compact download, run `python3 code/setup.py --project commerce-app` from the extracted package folder, replacing `commerce-app` with its project name. Use `--list` to list projects or `--all` to prepare them all. Python 3.9 or newer is required; use `python` if that is your Python 3 command. Setup restores exact original images and fonts offline. The download stores them once; preparing projects increases disk use. Individually cloned repositories already include their assets and need no preparation step.
